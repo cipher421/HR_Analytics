@@ -76,4 +76,8 @@ This analysis can support:
 
 ## Notes
 
-This repository does not contain a traditional application codebase or web app; it is a data analytics project built around HR attrition insights and dashboard reporting.
+This repository does not contain a traditional application codebase or web app; it is a data analytics project built around HR attrition insights and dashboard
+reporting.
+
+## Output
+<img width="1472" height="845" alt="HR_Analystics" src="https://github.com/user-attachments/assets/e208fa97-7d4e-4a1d-b66e-c213a0de6bb1" />
